@@ -18,3 +18,6 @@ the 3D object's vertices to the viewer and calculating where
 these rays cross the window between the object and viewer.
 
 The object's lines are then drawn between these points in the window.
+
+The two perspectives above the 3D perspective help visualize how
+the rays are cast and catched between the viewer and object.
